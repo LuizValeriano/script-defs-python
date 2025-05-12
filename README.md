@@ -37,7 +37,7 @@ Este projeto reúne três pequenos scripts interativos feitos em Python, ideais 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cuidado-pet.git
+   git clone https://github.com/LuizValeriano/script-defs-python.git
 
 2. Execute o arquivo:
    ```bash
